@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CIDApp"
+    }
+  },
+  "defaultProject": "CIDApp",
+  "cli": {
+    "analytics": "ada61ae9-fcf3-46ba-8f27-c9d32b8ed62f"
+  }
 }
